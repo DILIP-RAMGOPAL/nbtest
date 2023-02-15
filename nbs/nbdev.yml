@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbtest"
+  site-url: "https://DILIP-RAMGOPAL.github.io/nbtest"
+  description: "temp"
+  repo-branch: main
+  repo-url: "https://github.com/DILIP-RAMGOPAL/nbtest"
